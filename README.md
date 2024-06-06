@@ -2,11 +2,11 @@
 Welcome to WASender 0.2, a simple tool to send WhatsApp Web messages via Chrome to multiple recipients using a GUI built with Tkinter and automation powered by Selenium.
 
 **Features**
-Send WhatsApp Messages: Automate sending messages to multiple recipients.
-GUI Interface: Easy-to-use interface to input message content and recipient numbers.
-Duplicate Removal: Automatically remove duplicate numbers. 
-Error Handling: Handles common exceptions and alerts during the message sending process.
-_Grammar Refinement_: Uses Gemini-Pro to refine grammar (Requires Gemini API Key)
+1) Send WhatsApp Messages: Automate sending messages to multiple recipients.
+2) GUI Interface: Easy-to-use interface to input message content and recipient numbers.
+3) Duplicate Removal: Automatically remove duplicate numbers.
+4) Error Handling: Handles common exceptions and alerts during the message sending process.
+5) _Grammar Refinement_: Uses Gemini-Pro to refine grammar (Requires Gemini API Key)
 
 **Requirements**
 Python 3.x
