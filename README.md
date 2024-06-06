@@ -1,4 +1,4 @@
-WASender 0.2
+**WASender 0.2**
 Welcome to WASender 0.2, a simple tool to send WhatsApp Web messages via Chrome to multiple recipients using a GUI built with Tkinter and automation powered by Selenium.
 
 **Features**
