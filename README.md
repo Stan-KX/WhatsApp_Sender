@@ -18,6 +18,5 @@ psutil
 IPython
 
 **Set-up**
-1) Ensure that you have logged into Whatsapp Web on Chrome (web.whatsapp.com)
-2) Verify that the profile path exists
-3) If you've enabled profile selection on Chrome startup, launch Chrome and uncheck "Show on startup"
+1) Ensure that you have disabled profile selection on Chrome.
+2) Have your camera-enabled WhatsApp device ready to scan WhatsApp Web QR
