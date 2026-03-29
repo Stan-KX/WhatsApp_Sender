@@ -13,9 +13,7 @@ Python 3.x
 Tkinter
 Selenium
 Google Chrome
-ChromeDriver
 psutil
-IPython
 
 **Set-up**
 1) Ensure that you have disabled profile selection on Chrome.
